@@ -1,0 +1,2 @@
+exports.MALE = `https://firebasestorage.googleapis.com/v0/b/social-network-699f2.appspot.com/o/avatar%2Fmale.png?alt=media&token=54e55e99-10f4-424a-8bc2-8dcb3789ce26`
+exports.FEMALE = `https://firebasestorage.googleapis.com/v0/b/social-network-699f2.appspot.com/o/avatar%2Ffemale.png?alt=media&token=173b9c85-f657-42e0-9943-4cf489df5955`

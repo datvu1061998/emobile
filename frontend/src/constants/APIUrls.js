@@ -1,0 +1,13 @@
+export const GET_CITY = 'https://thongtindoanhnghiep.co/api/city';
+export const GET_DISTRICT = 'https://thongtindoanhnghiep.co/api/district';
+export const GET_WARD = 'https://thongtindoanhnghiep.co/api/ward';
+export const POST_PRODUCT = 'http://localhost:8080/emobile/product';
+export const GET_BRAND = 'http://localhost:8080/emobile/brand';
+export const GET_SINGLE_PRODUCT = 'http://localhost:8080/emobile/product/single';
+export const GET_HOT_PRODUCT = 'http://localhost:8080/emobile/hotproduct';
+export const GET_BANNER = 'http://localhost:8080/emobile/banner';
+export const REGISTER = 'http://localhost:8080/emobile/register';
+export const LOGIN = 'http://localhost:8080/emobile/login';
+export const FORGOT = 'http://localhost:8080/emobile/forgot';
+export const CART = 'http://localhost:8080/emobile/token/cart';
+export const BILL = 'http://localhost:8080/emobile/token/bill';
